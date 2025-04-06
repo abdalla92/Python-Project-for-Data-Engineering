@@ -18,7 +18,9 @@ Output CSV Path	./Largest_banks_data.csv
 Database name	Banks.db
 Table name	Largest_banks
 Log file	code_log.txt
+
 Project tasks
+
 Task 1:
 Write a function log_progress() to log the progress of the code at different stages in a file code_log.txt. Use the list of log points provided to create log entries as every stage of the code.
 
